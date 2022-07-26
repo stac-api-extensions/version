@@ -1,9 +1,9 @@
 openapi: 3.0.3
 info:
-  title: The SpatioTemporal Asset Catalog API - Item Search
-  version: 1.0.0-rc.1
+  title: The SpatioTemporal Asset Catalog API - STAC API - Features with Version Extension
+  version: 0.1.0
   description: >-
-    This is an OpenAPI definition of the SpatioTemporal Asset Catalog API Item Search
+    This is an OpenAPI definition of the SpatioTemporal Asset Catalog API - Features
     specification.
   contact:
     name: STAC Specification
