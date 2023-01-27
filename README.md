@@ -1,9 +1,18 @@
 # Items and Collections API Version Extension
 
+- **Title:** Items and Collections API Version
 - **OpenAPI specification:** [openapi.yaml](openapi.yaml)
-- **Conformance URIs:** <https://api.stacspec.org/v0.1.0/ogcapi-features/extensions/version>
-- **Extension [Maturity Classification](https://github.com/radiantearth/stac-api-spec/blob/main/README.md#maturity-classification):** Proposal
+- **Conformance Classes:**
+  - <https://api.stacspec.org/v0.1.0/ogcapi-features/extensions/version>
+- **Scope:** STAC API - Features
+- **[Extension Maturity Classification](https://github.com/radiantearth/stac-api-spec/blob/main/README.md#maturity-classification):** Deprecated
 - **Dependencies**: [STAC API - Features](https://github.com/radiantearth/stac-api-spec/blob/main/ogcapi-features/README.md)
+- **Owner**: none
+
+**NOTE:** This extension is now deprecated. There are no public implementations of it. A significant flaw
+is that there is only one conformance class, so users would be required to implement both collections and
+items versioning, even if only one was desired, to conform to the specification. There is a desire for
+versioning with STAC API, but there needs to be more work to create a better specification for it.
 
 The STAC API - Features conformance class doesn't support semantics to creating and accessing different
 versions of an Item or Collection.
