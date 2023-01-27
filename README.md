@@ -5,7 +5,7 @@
 - **Conformance Classes:**
   - <https://api.stacspec.org/v0.1.0/ogcapi-features/extensions/version>
 - **Scope:** STAC API - Features
-- **[Extension Maturity Classification](https://github.com/radiantearth/stac-api-spec/tree/main/README.md#maturity-classification):** Deprecated
+- **[Extension Maturity Classification](https://github.com/radiantearth/stac-api-spec/tree/v1.0.0-rc.2/README.md#maturity-classification):** Deprecated
 - **Dependencies**: [STAC API - Features](https://github.com/radiantearth/stac-api-spec/blob/main/ogcapi-features/README.md)
 - **Owner**: none
 
