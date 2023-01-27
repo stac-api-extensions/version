@@ -1,11 +1,11 @@
 # Items and Collections API Version Extension
 
-- **Title:** Items and Collections API Version
+- **Title:** Version
 - **OpenAPI specification:** [openapi.yaml](openapi.yaml)
 - **Conformance Classes:**
   - <https://api.stacspec.org/v0.1.0/ogcapi-features/extensions/version>
 - **Scope:** STAC API - Features
-- **[Extension Maturity Classification](https://github.com/radiantearth/stac-api-spec/blob/main/README.md#maturity-classification):** Deprecated
+- **[Extension Maturity Classification](https://github.com/radiantearth/stac-api-spec/tree/main/README.md#maturity-classification):** Deprecated
 - **Dependencies**: [STAC API - Features](https://github.com/radiantearth/stac-api-spec/blob/main/ogcapi-features/README.md)
 - **Owner**: none
 
